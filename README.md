@@ -8,5 +8,5 @@ This program is a simple photo viewer that I use to help my kiddo learn new word
 
 
 
-Simply Download, run 'main' in the dist folder, and follow the instructions.
+Simply Download, run 'main' in the dist folder, and follow the instructions. Note that you need python 3 installed on your computer.
 
